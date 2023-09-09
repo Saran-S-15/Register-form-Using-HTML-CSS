@@ -1,0 +1,155 @@
+.parent {
+    background-color: yellowgreen;
+    width: 100%;
+    height: 100%;
+    background-image: url("a.jpeg");
+}
+.child {
+    background-color: white;
+    width: 700px;
+    height: 86vh;
+    position: relative;
+    left: 382px;
+    top: 60px;
+    border-radius: 5px;
+
+}
+b {
+    position: relative;
+    left: 10px;
+}
+.yo {
+    background-color: white;
+    border-radius: 100px;
+    bottom: 50px;
+    height: 705px;
+}
+.abc {
+    font-size: 30px;
+    position: relative;
+    left: 10px;
+}
+.abcd {
+    font-size: 30px;
+    position: relative;
+    left: 393px;
+    bottom: 65px;
+}
+input {
+    border-radius: 2px;
+    font-size: 20px;
+    position: relative;
+    bottom: 75px;
+    left: 5px;
+}
+.bruh {
+    border-radius: 2px;
+    font-size: 20px;
+    position: relative;
+    left: 140px;
+}
+.yobae {
+    font-size: 30px;
+    position: relative;
+    left: 10px;
+    bottom: 85px;
+}
+.yobae1 {
+    font-size: 30px;
+    position: relative;
+    left: 393px;
+    bottom: 151px;
+}
+.bruh2 {
+    border-radius: 2px;
+    font-size: 20px;
+    position: relative;
+    left: 140px;
+    bottom: 162px;
+}
+.bruh3 {
+    bottom: 162px;
+    left: 5px;
+    font-size: 20px;
+    border-radius: 2px;
+}
+.bala {
+    font-size: 30px;
+    position: relative;
+    left: 10px;
+    bottom: 166px;
+}
+.bala2 {
+    font-size: 30px;
+    position: relative;
+    left: 393px;
+    bottom: 230px;
+}
+.sexy1 {
+    left: 5px;
+    font-size: 20px;
+    border-radius: 2px;
+    bottom: 242px;
+}
+.sexy2 {
+    border-radius: 2px;
+    font-size: 20px;
+    position: relative;
+    left: 140px;
+    bottom: 242px;
+}
+.jabra {
+    font-size: 30px;
+    position: relative;
+    left: 10px;
+    bottom: 245px;
+}
+.jabra1 {
+    position: relative;
+    left: 15px;
+    bottom: 424px;
+
+}
+.jabra2 {
+    position: relative;
+    left: 140px;
+    bottom: 423px;
+    
+}
+.jabra3 {
+    position: relative;
+    left: 293px;
+    bottom: 423px;
+    
+}
+.anbu1 {
+    position: relative;
+    left: 38px;
+    bottom: 258px;
+    font-size: 25px;
+}
+.anbu2 {
+    position: relative;
+    left: 187px;
+    bottom: 312px;
+    font-size: 25px;
+    
+}
+.anbu3 {
+    position: relative;
+    left: 358px;
+    bottom: 366px;
+    font-size: 25px;
+    
+}
+.audi {
+    position: relative;
+    left: 34px;
+    width: 500px;
+    background-color: lightblue;
+    bottom: 330px;
+    border-left-color: firebrick;
+    border-top-color: firebrick;
+    border-bottom-color: firebrick;
+    border-right-color: firebrick;
+}
